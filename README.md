@@ -25,11 +25,11 @@ This repository contains the code and documentation for my Exploratory Data Anal
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn
 ## 📈 Key Skills Acquired:
 
-Data Cleaning and Preprocessing
-Exploratory Data Analysis Techniques
-Data Visualization with Matplotlib and Seaborn
-Pandas for Efficient Data Manipulation
-Statistical Analysis and Inference
+--> Data Cleaning and Preprocessing
+--> Exploratory Data Analysis Techniques
+--> Data Visualization with Matplotlib and Seaborn
+--> Pandas for Efficient Data Manipulation
+--> Statistical Analysis and Inference
 
 ## Acknowledgments
 I want to express my gratitude to Kaggle for providing the Supermarket sales dataset and to the open-source community for the valuable tools and resources.
