@@ -26,9 +26,17 @@ This repository contains the code and documentation for my Exploratory Data Anal
 ## 📈 Key Skills Acquired:
 
 --> Data Cleaning and Preprocessing
+
+
 --> Exploratory Data Analysis Techniques
+
+
 --> Data Visualization with Matplotlib and Seaborn
+
+
 --> Pandas for Efficient Data Manipulation
+
+
 --> Statistical Analysis and Inference
 
 ## Acknowledgments
